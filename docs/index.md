@@ -1,8 +1,5 @@
 # Elysian Realm
 ***
-<p align="center">
-	My apple text
-</p>
 
 -> Please contact boba#8849 or Rafe#5610 if there are any typos<-
 -> Contact Rafe#5610 until further notice (possibly biribiri#3681, probably not Butter#2252) if there are any build questions/suggestions <-
@@ -19,6 +16,9 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
+<p align="center">
+	My apple text
+</p>
 
 -> **Note: The number behind the Signet Name represents the core** <-
 -> **Eg: Su2 = Su - Signet of Bodhi Core 2 (Dictum of Bodhi)** <-
