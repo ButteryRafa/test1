@@ -9,6 +9,13 @@
 
 ***
 
+!!! note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
 -> **Note: The number behind the Signet Name represents the core** <-
 -> **Eg: Su2 = Su - Signet of Bodhi Core 2 (Dictum of Bodhi)** <-
 
