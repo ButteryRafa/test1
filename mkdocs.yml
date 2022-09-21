@@ -1,3 +1,4 @@
+site_name: hi3er
 markdown_extensions:
   - admonition
   - pymdownx.details
