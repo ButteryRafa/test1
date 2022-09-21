@@ -16,9 +16,7 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-<p align="center">
-	My apple text
-</p>
+<p align="center">My apple text</p>
 
 -> **Note: The number behind the Signet Name represents the core** <-
 -> **Eg: Su2 = Su - Signet of Bodhi Core 2 (Dictum of Bodhi)** <-
