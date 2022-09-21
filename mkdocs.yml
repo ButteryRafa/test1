@@ -1,7 +1,7 @@
-site_name: hi3er
-title: HI3 ER Signets
-description: Signet guide for Honkai Impact 3's Elysian Realm
-docs_dir: 'docs'
+site_name: "hi3er"
+title: "HI3 ER Signets"
+description: "Signet guide for Honkai Impact 3's Elysian Realm"
+docs_dir: "docs"
 markdown_extensions:
   - admonition
   - pymdownx.details
