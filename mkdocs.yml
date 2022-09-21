@@ -1,4 +1,5 @@
 site_name: hi3er
+docs_dir: '.'
 markdown_extensions:
   - admonition
   - pymdownx.details
