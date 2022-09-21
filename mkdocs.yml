@@ -1,7 +1,7 @@
-site_name: "HI3 ER Signet Guide"
-site_description: "Signet guide for Honkai Impact 3's Elysian Realm"
-repo_url: "https://github.com/ButteryRafa/test/"
-docs_dir: "docs"
+site_name: HI3 ER Signet Guide
+site_description: 'Signet guide for Honkai Impact 3\'s Elysian Realm'
+repo_url: https://github.com/ButteryRafa/test/
+docs_dir: docs
 markdown_extensions:
   - admonition
   - pymdownx.details
