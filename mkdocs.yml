@@ -3,7 +3,6 @@ site_description: 'Signet guide for Honkai Impact 3 Elysian Realm'
 theme:
   name: 'material'
   features:
-    - toc.integrate
     - navigation.instant
   palette: 
 
