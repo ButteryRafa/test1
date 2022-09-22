@@ -1,7 +1,8 @@
 site_name: 'HI3 ER Signet Guide'
 site_description: 'Signet guide for Honkai Impact 3 Elysian Realm'
 theme:
-    name: 'mkdocs'
+  palette: 
+
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -13,6 +14,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
 markdown_extensions:
     - admonition
     - pymdownx.details
