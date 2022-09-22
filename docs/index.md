@@ -64,6 +64,33 @@ Early | Forbidden Seed/Burden | AE | LE
 Mid | Golden Goblet/Light as a Leaf | AE | LE/HB
 Late | Home Lost/ | AE | HB
 
+<div class="divTable">
+    <div class="row">
+        <div class="cell">Time</td>
+        <div class="cell">Sigils</td>
+        <div class="cell">Support 1</td>
+        <div class="cell">Support 2</td>
+    </div>
+    <div class="row">
+        <div class="cell">Early</td>
+        <div class="cell">Forbidden Seed/Burden</td>
+        <div class="cell">AE</td>
+        <div class="cell">LE</td>
+    </div>
+    <div class="row">
+        <div class="cell">Mid</td>
+        <div class="cell">Golden Goblet/Light as a Leaf</td>
+        <div class="cell">AE</td>
+        <div class="cell">LE/HB</td>
+    </div>
+    <div class="row">
+        <div class="cell">Late</td>
+        <div class="cell">Home Lost/</td>
+        <div class="cell">AE</td>
+        <div class="cell">HB</td>
+    </div>
+</div>
+
 </div>
 
 ####<p align="center">Elysia - Signet of ■■</p>
