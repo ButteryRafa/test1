@@ -96,7 +96,7 @@ No = Don't get this.
 ![omg jojo stand user](https://cdn.discordapp.com/attachments/967717692465365133/982328480106708992/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_kei_soundcross__sample-237aafeedb2d70329926c59547ea5313.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Husk, Kalpas
 
@@ -166,7 +166,7 @@ Signet | Priority
 ![shes a cutiepie](https://elysian-realm.vercel.app/images/bright-knight-excelsis.png)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -236,7 +236,7 @@ Quick search: DA, dudu
 ![leg bow is the meta in ER indeed, i mean look at em thig- ahem.](https://embed.pixiv.net/artwork.php?illust_id=90947488)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Husk, Elysia
 
@@ -306,7 +306,7 @@ Search Tags: DPe, DiP, Nun, Aponia
 ![Nunny mommy purify me](https://elysian-realm.vercel.app/images/disciplinary-perdition.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Husk, Elysia
 
@@ -317,7 +317,7 @@ Mid | Rainbow of Absence/The Lonely Moon | AE | LE/BR
 Late | Resolve/Hometown | AE | BR
 
 !!! warning
-     Aponia Disciplinary Perdition can use almost every single signet so her builds are very flexible
+    Aponia Disciplinary Perdition can use almost every single signet so her builds are very flexible
 
 ## --  Auto Atk Spam 
 ###<p align="center">Elysia - Signet of ■■</p>
@@ -434,7 +434,7 @@ Quick Search: FR, Rita, Maid
 ![she has so many animals, maybe i can be one too?](https://cdn.discordapp.com/attachments/967717692465365133/982328522628550666/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_vierzeck__sample-628bb95fce62fa2a79cb00ec837513b8.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Husk, Elysia
 
@@ -454,7 +454,7 @@ Signet | Priority
 **Blessing of God Eater**: When God Eater hits, a lightning bolt hits and fully recharges Strix | Filler
 **Blessing of Spirit Servants**: When Garmr/Strix/Linnorm hits, increases Lightning DMG | Filler
 !!! note
-     The loop-able combo from Soul Siphon drops from being used 6 times to 3 times at ss2
+    The loop-able combo from Soul Siphon drops from being used 6 times to 3 times at ss2
 
 ###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
@@ -497,7 +497,7 @@ Quick Search: FT, Roza, Lili, Lily, Vodka Girls
 ![She is horny cause she has horns. Its a fact.](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/10/05/23/34/50/93250091_p0_master1200.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: SA for Husk, BR for HoDom, Mobius (Type Counter)
 
@@ -557,7 +557,7 @@ Quick search: Eden, GD
 ![Vercel GD](https://elysian-realm.vercel.app/images/golden-diva.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -609,7 +609,7 @@ Signet | Priority
 **You Shall Be Bound by Thy Body**: In Mortification, Basic ATK has 30% Physical Breach and Elemental Breach but Ultimate deals 20% less Total DMG | 1st
 
 !!! note
-     Griseo2 is optional
+    Griseo2 is optional
 ###<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
@@ -627,7 +627,7 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 ![literally hot](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/07/17/00/00/04/91289343_p0_master1200.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Mobius (Type Counter)
 
@@ -681,7 +681,7 @@ Signet | Priority
 **Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | 2nd
 
 !!! info
-     Optional (Choose one or none):
+    Optional (Choose one or none):
 
 ###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
@@ -733,12 +733,12 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 ###<p align="center">Ultimate Build</p>
 
 !!! note
-     Information pending to be submitted. Complete run of the build here: https://youtu.be/Fgkcml9kPLw
+    Information pending to be submitted. Complete run of the build here: https://youtu.be/Fgkcml9kPLw
 
 ## -- Ballista build
 
 !!! note
-     Information pending to be submitted. Complete run of the build here: https://youtu.be/OdJ-aHcehW0
+    Information pending to be submitted. Complete run of the build here: https://youtu.be/OdJ-aHcehW0
 
 ***
 
@@ -748,7 +748,7 @@ Quick Search: HoR, Bronya
 ![cuteness beyond reason](https://elysian-realm.vercel.app/images/herrscher-of-reason.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 ## -- Evade
 
@@ -816,7 +816,7 @@ Signet | Priority
 ## -- Ult
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -887,7 +887,7 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 ###<p align="center">HoS - *General Build* 7D</p>
 
 !!! note
-     Updated 6.0.
+    Updated 6.0.
 
 > Boss to be Chosen: Husk, then Elysia or Vill-V (easiest)
 
@@ -898,7 +898,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 S | Finality | Senpri & Shattered Swords | 7:47m (6.0) | https://youtu.be/jalMiRdgqEw
 
 !!! note
-     This build is downscaleable with lower clear time based on stats/gears/rank and lower difficulties. Double Clear is not necessary but is nice, you can perfectly clear with this build, especially in 6.0 weather. The one important thing to note from this build is that, especially if you're downscaling in gears but not on difficulty, you want to learn to time The Lonely Moon perfectly into clearing a new wave of mobs right away. Even 1 or 2 seconds later is still fine. Griseo's skill is monstruously op when used this way, due to how easily it can delete waves instantly and apply all your unlocked paints if they're somehow alive still. 
+    This build is downscaleable with lower clear time based on stats/gears/rank and lower difficulties. Double Clear is not necessary but is nice, you can perfectly clear with this build, especially in 6.0 weather. The one important thing to note from this build is that, especially if you're downscaling in gears but not on difficulty, you want to learn to time The Lonely Moon perfectly into clearing a new wave of mobs right away. Even 1 or 2 seconds later is still fine. Griseo's skill is monstruously op when used this way, due to how easily it can delete waves instantly and apply all your unlocked paints if they're somehow alive still. 
 
 Buff | Load
 :----: | :----: 
@@ -907,7 +907,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-     Effective for 6.0.
+    Effective for 6.0.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -933,12 +933,12 @@ Signet | Priority
 **Blessing of Legion**: Sword, spear and chain combo attacks restore 300 sword, spear and chain energy respectively and boost Total DMG by 60% for 8s. | No
 
 !!! note
-     This build only requires 2, Victory and Dark Plumes. Rerolling for double start with Dark Plumes is essential as you otherwise will have to deal with SP regen problems without it. If you get a 3rd Ego door during your run, you can take Supremacy for an even smoother run.
+    This build only requires 2, Victory and Dark Plumes. Rerolling for double start with Dark Plumes is essential as you otherwise will have to deal with SP regen problems without it. If you get a 3rd Ego door during your run, you can take Supremacy for an even smoother run.
 
 ###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-     Ideal Order from F1-F7: Double Reroll into Apo2 Core by F4, then 1 Griseo door before F7, then finish Griseo by F7 double
+    Ideal Order from F1-F7: Double Reroll into Apo2 Core by F4, then 1 Griseo door before F7, then finish Griseo by F7 double
 
 
 Signet | Priority
@@ -952,7 +952,7 @@ Signet | Priority
 **You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Filler
 
 !!! note
-     After Apo2 core, Griseo core is the best one to go after next. 
+    After Apo2 core, Griseo core is the best one to go after next. 
 
 ###<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
@@ -970,7 +970,7 @@ Signet | Priority
 **Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | Optional
 
 !!! note
-     The moment you get any of the basic paints of Griseo, the gameplay changes. It's essential to save the weapon active and UE skill to time them together with her Ultimate, having all 3 paints. Taint Extension is also very crucial for this, as the +0 alone will increase the duration from 8s to 13s, making up for an entire ult duration of 2 complete series of Victory Slashes.
+    The moment you get any of the basic paints of Griseo, the gameplay changes. It's essential to save the weapon active and UE skill to time them together with her Ultimate, having all 3 paints. Taint Extension is also very crucial for this, as the +0 alone will increase the duration from 8s to 13s, making up for an entire ult duration of 2 complete series of Victory Slashes.
 
 ###<p align="center">Eden - Signet of Gold (3rd Core)</p>
 
@@ -985,7 +985,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional
 
 !!! note
-     It's not necessary to go for Silent Night, but it's still good to get nevertheless.
+    It's not necessary to go for Silent Night, but it's still good to get nevertheless.
 
 ###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
@@ -1000,7 +1000,7 @@ Signet | Priority
 ###<p align="center">HoS - *Ego Mobius Build* 7D</p>
 
 !!! note
-     Adjusted and up to date for 6.0.
+    Adjusted and up to date for 6.0.
 
 > Boss to be Chosen: Vill-V
 
@@ -1011,9 +1011,9 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | https://youtu.be/j_UFFAe3yWI
 
 !!! note
-     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement.
+    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement.
 !!! danger
-     Also, through testing, 3-set Sirin Ascendant has about the same clear time as Shattered Swords. SSwords remains the better contender in general.
+    Also, through testing, 3-set Sirin Ascendant has about the same clear time as Shattered Swords. SSwords remains the better contender in general.
 
 Buff | Load
 :----: | :----: 
@@ -1022,7 +1022,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-     Effective for 6.0.
+    Effective for 6.0.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1047,7 +1047,7 @@ Signet | Priority
 **Blessing of Legion**: Sword, spear and chain combo attacks restore 300 sword, spear and chain energy respectively and boost Total DMG by 60% for 8s. | No
 
 !!! note
-     This build only requires 2, Victory and Ego. Double start is strictly necessary as Ego and Mobius are the main core of this build. You can also take Dark Plumes as 3rd but no more, which will massively help with the SP regen and make the build smoother, especially before F7 as it will be lacking.
+    This build only requires 2, Victory and Ego. Double start is strictly necessary as Ego and Mobius are the main core of this build. You can also take Dark Plumes as 3rd but no more, which will massively help with the SP regen and make the build smoother, especially before F7 as it will be lacking.
 
 ###<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
@@ -1062,7 +1062,7 @@ Signet | Priority
 **Newborn [X]**: Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally. | Optional 
 
 !!! note
-     Lip Poison start is the most meaningful, as it has more noticeable damage increase. Also, Lodging is far more valuable than Rodent for finishing 1st core, allowing you to use SN for F7 on Smelter Zombie making it easier to get the double on time. Regarding Newborn, it's only considered if you want to upgrade Dead [X].
+    Lip Poison start is the most meaningful, as it has more noticeable damage increase. Also, Lodging is far more valuable than Rodent for finishing 1st core, allowing you to use SN for F7 on Smelter Zombie making it easier to get the double on time. Regarding Newborn, it's only considered if you want to upgrade Dead [X].
 
 ###<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
 
@@ -1077,7 +1077,7 @@ Signet | Priority
 **You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Filler
 
 !!! note
-     SP Regen takes the priority here for this build as start, as without Dark Plumes, Senti will have noticeable SP problems by F7.
+    SP Regen takes the priority here for this build as start, as without Dark Plumes, Senti will have noticeable SP problems by F7.
 
 ###<p align="center">Griseo - Signet of Stars (3rd Core)</p>
 
@@ -1095,7 +1095,7 @@ Signet | Priority
 **Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | Optional
 
 !!! note
-     The moment you get any of the basic paints of Griseo, the gameplay changes. It's essential to save the weapon active and UE skill to time them together with her Ultimate, having all 3 paints. Taint Extension is also very crucial for this, as the +0 alone will increase the duration from 8s to 13s, making up for an entire ult duration of 2 complete series of Victory Slashes.
+    The moment you get any of the basic paints of Griseo, the gameplay changes. It's essential to save the weapon active and UE skill to time them together with her Ultimate, having all 3 paints. Taint Extension is also very crucial for this, as the +0 alone will increase the duration from 8s to 13s, making up for an entire ult duration of 2 complete series of Victory Slashes.
 
 ###<p align="center">Eden - Signet of Gold (4th Core)</p>
 
@@ -1112,7 +1112,7 @@ Signet | Priority
 ## -- S0 HoS - *Kosma Build 7D*
 
 !!! note
-     Build due to update for 6.0 soon.
+    Build due to update for 6.0 soon.
 
 > Boss to be Chosen: Husk, then Elysia or Vill-V (easiest)
 
@@ -1123,7 +1123,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 S | Finality | Senpri & 3-Set Shattered Swords | 10:38 (1st Half 5.9) | https://youtu.be/6Ab8Bw54IGA
 
 !!! note
-     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. This is also the 3rd in ranking of strength, only do it for fun.
+    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. This is also the 3rd in ranking of strength, only do it for fun.
 
 Buff | Load
 :----: | :----: 
@@ -1132,7 +1132,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-     Effective for 6.0.
+    Effective for 6.0.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1157,7 +1157,7 @@ Signet | Priority
 **Blessing of Legion**: Sword, spear and chain combo attacks restore 300 sword, spear and chain energy respectively and boost Total DMG by 60% for 8s. | No
 
 !!! note
-     This build only requires 2, Victory and Dark Plumes. Rerolling for double start with Dark Plumes is essential as you otherwise will have to deal with SP regen problems without it. If you get a 3rd Ego door during your run, you can take Supremacy for an even smoother run.
+    This build only requires 2, Victory and Dark Plumes. Rerolling for double start with Dark Plumes is essential as you otherwise will have to deal with SP regen problems without it. If you get a 3rd Ego door during your run, you can take Supremacy for an even smoother run.
 
 ###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
@@ -1172,7 +1172,7 @@ Signet | Priority
 **You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Filler
 
 !!! note
-     After Apo2 core, what follows is Eden and Kosma's cores. Explanation in their respective sections.
+    After Apo2 core, what follows is Eden and Kosma's cores. Explanation in their respective sections.
 
 ###<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
@@ -1186,7 +1186,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional
 
 !!! note
-     Eden takes the priority here due to a much stronger and effective setup together with Aponia 2. It will also remain solid throughout mech land, and Eden's Silent Night is also really strong to try and take.
+    Eden takes the priority here due to a much stronger and effective setup together with Aponia 2. It will also remain solid throughout mech land, and Eden's Silent Night is also really strong to try and take.
 
 ###<p align="center">Kosma - Signet of Daybreak (3rd Core)</p>
 
@@ -1202,7 +1202,7 @@ Signet | Priority
 **Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | Filler
 
 !!! note
-     Ensuing Regret takes priority only and only if you get Kalpas2 and you're going to get his Enhanceds, mainly his breach or the adaptive dmg. Otherwise Perpetual Wait is always the choice over this as it'll be more consistent and Kalpas2 is usually left for later floors.
+    Ensuing Regret takes priority only and only if you get Kalpas2 and you're going to get his Enhanceds, mainly his breach or the adaptive dmg. Otherwise Perpetual Wait is always the choice over this as it'll be more consistent and Kalpas2 is usually left for later floors.
 
 ###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
@@ -1217,7 +1217,7 @@ Signet | Priority
 **Body, Bones, Heart, and Soul**: The Bloodboil Armor charges cap increases by 500. When its charges exceed 1500, if it gains HP recovery, when it next deals DMG to enemies, it will have a bonus 800% ATK of adaptive DMG. CD: 5s. | Filler
 
 !!! note
-     Kalpas Enhanceds are only to pair together with Kosma's Ensuing Regret, otherwise don't bother.
+    Kalpas Enhanceds are only to pair together with Kosma's Ensuing Regret, otherwise don't bother.
 
 ***
 
@@ -1229,7 +1229,7 @@ Quick search: HoT, Mei, hot mei, dragon
 ## --  4-5 
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Mobius
 
@@ -1260,7 +1260,7 @@ Signet | Priority
 **Aria of Soil**: Intoxicated enemies take only 10% bonus Total DMG but it can stack up to 3 times | 1st
 
 !!! note
-     Phyllis1 will be replaced by Aponia1 when Aponia1 is released
+    Phyllis1 will be replaced by Aponia1 when Aponia1 is released
 ###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
@@ -1298,7 +1298,7 @@ Signet | Priority
 ## --  Burst 
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Mobius
 
@@ -1348,7 +1348,7 @@ Signet | Priority
 **Nexus Signet 2: Dictum of Bodhi** |
 
 !!! note
-     Optional (Choose one or none:)
+    Optional (Choose one or none:)
 ###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
@@ -1369,7 +1369,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 ## -- Thanos Snap - *Mobius Build 7D*
 
 !!! note
-     Updated for 6.0. Strength has been lowered a bit, but otherwise she can still clear.
+    Updated for 6.0. Strength has been lowered a bit, but otherwise she can still clear.
 
 > Boss to be Chosen: Husk, then Elysia or Aponia
 
@@ -1383,10 +1383,10 @@ SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (2nd Half 5.9) | https://you
 S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0) | https://youtu.be/WkSisfkTyA0
 
 !!! danger
-     These above are listed based on their potential strength. First listed is the strongest. Wondering why 3-set Elysia is stronger? Run was done with 88 less attack in comparison to Sirin Ascendant. Also, watch out for builds without SirinA M or Elysia M, as the playstyle changes a bit.
+    These above are listed based on their potential strength. First listed is the strongest. Wondering why 3-set Elysia is stronger? Run was done with 88 less attack in comparison to Sirin Ascendant. Also, watch out for builds without SirinA M or Elysia M, as the playstyle changes a bit.
 
 !!! note
-     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. However, do note that this valkyrie requires at least Keys of Void to be played in ER. Without her signature weapon, she can't stay in permanent Herrscher Mode.
+    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. However, do note that this valkyrie requires at least Keys of Void to be played in ER. Without her signature weapon, she can't stay in permanent Herrscher Mode.
 
 Buff | Load
 :----: | :----: 
@@ -1395,7 +1395,7 @@ Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it 
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-     Effective for 6.0.
+    Effective for 6.0.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1410,7 +1410,7 @@ Mid | VC | BR or SS
 Late | VC | BR or SS
 
 !!! note
-     You can instead take SS if you don't like low HP gameplay & want to play safe as HoV can die without Hua shield. This also impacts into the choice of cores, further explained below.
+    You can instead take SS if you don't like low HP gameplay & want to play safe as HoV can die without Hua shield. This also impacts into the choice of cores, further explained below.
 
 ###<p align="center">Elysia - Signet of ■■</p>
 
@@ -1424,12 +1424,12 @@ Signet | Priority
 **Blessing of Innateness**: Reduces CD of Ultimate Evasion Skill, weapon skill and Ultimate by 6s each when summoning Space Core. In Herrscher Form, Basic ATKs directly connect to SEQ 3 for a short duration after triggering Ultimate Evasion. | Start
 
 !!! note
-     Innateness is a must, Coleus is needed, so double Ely start is the best. Regarding Virtuality and Annihilation, if you get a 3rd Ego Door, go ahead and grab it unless you'd otherwise get an essential core. Mobius is not essential to rush and complete. There's no winner over Virtuality or Annihilation, as both are strong in their own with almost no noticeable difference whatsoever, however, if you don't like Virtuality's downsides (can make mobs have delayed spawn or lock some enemies in the air in a way that HoV can't target them and reduce her CD's with Innaneness), then Annihilation is taken.
+    Innateness is a must, Coleus is needed, so double Ely start is the best. Regarding Virtuality and Annihilation, if you get a 3rd Ego Door, go ahead and grab it unless you'd otherwise get an essential core. Mobius is not essential to rush and complete. There's no winner over Virtuality or Annihilation, as both are strong in their own with almost no noticeable difference whatsoever, however, if you don't like Virtuality's downsides (can make mobs have delayed spawn or lock some enemies in the air in a way that HoV can't target them and reduce her CD's with Innaneness), then Annihilation is taken.
 
 ###<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
 !!! note
-     Ideal course of build up: 2 Ego Start , 1st Core by F4, Dead [X] by F5 or F6 , Griseo by F5 or F6 , Griseo 2nd Core by F7 , 3rd and 4th Core by F11.
+    Ideal course of build up: 2 Ego Start , 1st Core by F4, Dead [X] by F5 or F6 , Griseo by F5 or F6 , Griseo 2nd Core by F7 , 3rd and 4th Core by F11.
 
 
 Signet | Priority
@@ -1442,7 +1442,7 @@ Signet | Priority
 **Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync. | Optional
 
 !!! note
-     Lip Poison can be taken for synergy with the Ego signet, Coleus. Either that, or if you don't get Lodging in your signet choices. Dead doesn't feel as impactful this time around to get, so getting it isn't a priority.
+    Lip Poison can be taken for synergy with the Ego signet, Coleus. Either that, or if you don't get Lodging in your signet choices. Dead doesn't feel as impactful this time around to get, so getting it isn't a priority.
 
 ###<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
@@ -1456,10 +1456,10 @@ Signet | Priority
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
 
 !!! note
-     Red & Hot is the absolute first priority, followed by Black & Dark. Petals in the Wind is a risky gamble to try and get. However, if you do manage to get it, the whole run will become really easy from there on. This is the main black goat of the build.
+    Red & Hot is the absolute first priority, followed by Black & Dark. Petals in the Wind is a risky gamble to try and get. However, if you do manage to get it, the whole run will become really easy from there on. This is the main black goat of the build.
 
 !!! danger
-     From here, the order isn't that impactful. If you chose BR and don't have Virtuality, absolutely take Hua. If you don't care, pick between Sakura or Vill-V. If you chose to go with SS, you can take any of these 3.
+    From here, the order isn't that impactful. If you chose BR and don't have Virtuality, absolutely take Hua. If you don't care, pick between Sakura or Vill-V. If you chose to go with SS, you can take any of these 3.
 
 ###<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
 
@@ -1473,7 +1473,7 @@ Signet | Priority
 **Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | 1st
 
 !!! note
-     Hua is the safest way to play HoV thanks to her shield. Virtuality helps to offset this to some extent however, if you don't manage to get Hua's 2nd core in the run. The lesser but big black goat of the build.
+    Hua is the safest way to play HoV thanks to her shield. Virtuality helps to offset this to some extent however, if you don't manage to get Hua's 2nd core in the run. The lesser but big black goat of the build.
 
 
 ###<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
@@ -1488,7 +1488,7 @@ Signet | Priority
 **Nexus Signet 1: Setsuna Blade: Sakura ni Maku* |
 
 !!! note
-     Fuji together with Sakura Screen are the black goats of this build. Fuji is really nasty as it intensifies the cheese even further as it allows for a constant UE spam without any 1-sec delays whatsoever due to waiting its CD. This is, however, not possible without Elysia M or SirinA M's -20% CDR on UE effects. So on these cases, Ume has the win.
+    Fuji together with Sakura Screen are the black goats of this build. Fuji is really nasty as it intensifies the cheese even further as it allows for a constant UE spam without any 1-sec delays whatsoever due to waiting its CD. This is, however, not possible without Elysia M or SirinA M's -20% CDR on UE effects. So on these cases, Ume has the win.
 
 ###<p align="center">Vill-V - Signet of Helix (5th Core)</p>
 
@@ -1506,10 +1506,10 @@ Signet | Priority
 **Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler 
 
 !!! note
-     V-V's basic signets are best taken from Felis Shop, and then proceed to get 2nd Core and get the Enhanceds at any cost IF possible. Puppetry and Drama are the mini black goats of this build.
+    V-V's basic signets are best taken from Felis Shop, and then proceed to get 2nd Core and get the Enhanceds at any cost IF possible. Puppetry and Drama are the mini black goats of this build.
 
 !!! danger
-     This is the strongest build in relative strength that HoV has. Ult build so far is weaker and doesn't really feel as good.
+    This is the strongest build in relative strength that HoV has. Ult build so far is weaker and doesn't really feel as good.
 
 ***
 
@@ -1519,7 +1519,7 @@ Quick Search: IO, Snake, Snek, Mobius
 ![mommy eat me up pls-](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/11/16/00/05/42/94162385_p0_master1200.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -1574,7 +1574,7 @@ Signet | Priority
 
 
 !!! info
-     Optional (choose one or none):
+    Optional (choose one or none):
 
 ###<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
 
@@ -1604,7 +1604,7 @@ Quick Search: LK, Teri, Theresa
 ![Teri Teri DAISHOURI!](https://cdn.discordapp.com/attachments/967717692465365133/982328549983813642/theresa_apocalypse_and_theresa_apocalypse_honkai_and_1_more_drawn_by_mt_ringofive__sample-c28643bef62a51ccbf6d885500418ae4.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -1675,7 +1675,7 @@ Quick search: MA, Raven, Natasha Cioara
 ![Bartender Raven stealin mah heart](https://elysian-realm.vercel.app/images/midnight-absinthe.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -1755,12 +1755,12 @@ Quick Search: MPE, Elysia, Maid
 ![Mommy? Mommy? sorry mommy. sorry sorry. yes mommy](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/01/08/00/27/50/95371062_p0_master1200.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 ###<p align="center">Elysia - *Hua Build 7D*</p>
 
 !!! note
-     Updated for 5.9. The strength of this build is lowered in 6.0 weather, so don't expect nearly the same results as the run this was done in.
+    Updated for 5.9. The strength of this build is lowered in 6.0 weather, so don't expect nearly the same results as the run this was done in.
 
 > Boss to be Chosen: Hephaestus, then Mobius 
 
@@ -1770,7 +1770,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
 SSS | Finality | Whisper Pri & 3-set Elysia | 7:51m (1st Half 5.9) | https://youtu.be/SPvdUDUO4eU
 !!! note
-     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement.
+    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement.
 
 Buff | Load
 :----: | :----: 
@@ -1779,7 +1779,7 @@ Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it 
 When Charged ATKs hit enemies, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 15
 
 !!! note
-     Effective for 6.0
+    Effective for 6.0
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1794,7 +1794,7 @@ Mid | VC | LE or SS
 Late | VC | LE or SS
 
 !!! danger
-     LE is swapped ONLY if you grab Eden's Initial/Max SP signet.
+    LE is swapped ONLY if you grab Eden's Initial/Max SP signet.
 
 ###<p align="center">Elysia - Signet of ■■</p>
 
@@ -1808,7 +1808,7 @@ Signet | Priority
 **Blessing of Benevolence**: Infatuation is fully restored when Ultimate Evasion Skill is triggered. If Infatuation drops below 100 after using Charged Shot: Cupid's Bolt, you can consume 1 Ultimate Evasion charge to trigger Ultimate Evasion Skill. | No 
 
 !!! note
-     This build requires only 2, Zenith and Purity. Beauty is not needed but otherwise really nice to take, will make the run smoother and easier. Other 2 are just NO.
+    This build requires only 2, Zenith and Purity. Beauty is not needed but otherwise really nice to take, will make the run smoother and easier. Other 2 are just NO.
 
 ###<p align="center">Vill-V - Signet of Helix (1st Core)</p>
 
@@ -1825,7 +1825,7 @@ Signet | Priority
 **Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler 
 
 !!! note
-     Ideal course of action is to take 4-3 Vill-V signets for F4 double clear, then grab 1 Hua door on either F5 or F6, and then grab Hua on F7.
+    Ideal course of action is to take 4-3 Vill-V signets for F4 double clear, then grab 1 Hua door on either F5 or F6, and then grab Hua on F7.
 
 ###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
@@ -1841,7 +1841,7 @@ Signet | Priority
 **Worldly Troubles**: With Soldier's Remembrance stacks, Total DMG increases by 50% of the Total DMG Reduction percentage from all Signets. | Filler
 
 !!! note
-     Hua2 Core has been tested to be stronger and way more impactful over the 3rd Core (Aponia2). Regarding Lost and Found and Worldly Troubles, they're ONLY considered if RNG luck fucks you over like this by not giving you the signets we are looking for.
+    Hua2 Core has been tested to be stronger and way more impactful over the 3rd Core (Aponia2). Regarding Lost and Found and Worldly Troubles, they're ONLY considered if RNG luck fucks you over like this by not giving you the signets we are looking for.
 
 ###<p align="center">Aponia - Signet of Discipline (3rd Core)</p>
 
@@ -1858,7 +1858,7 @@ Signet | Priority
 ### 4th Core Alternatives: Kalpas and Eden
 
 !!! note
-     You pick one or the other, based on your RNG luck and whichever you have better chances of finishing their Core. Kalpas, however, is way stronger while Eden's Core can't keep uptime for the entirety of Elysia's 35s ult duration, but still works.
+    You pick one or the other, based on your RNG luck and whichever you have better chances of finishing their Core. Kalpas, however, is way stronger while Eden's Core can't keep uptime for the entirety of Elysia's 35s ult duration, but still works.
 
 ###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
@@ -1880,16 +1880,16 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 
 !!! note
-     As mentioned before, for the purposes of swapping LE out in favor of other supports, you want to take Recitatif of Fine Jade. Best taken by grabbing it from Felis Shop.
+    As mentioned before, for the purposes of swapping LE out in favor of other supports, you want to take Recitatif of Fine Jade. Best taken by grabbing it from Felis Shop.
 
 ###<p align="center">Griseo - Signet of Stars (Optional Signet)</p>
 **Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | Optional YES
 
 !!! note
-     If you get blessed by Felis Shop RNG, absolutely take this. Not recommended to try and take it from door, though.
+    If you get blessed by Felis Shop RNG, absolutely take this. Not recommended to try and take it from door, though.
 
 !!! danger
-     This build has been done in -30% TDM reduction disadvantage weather, meaning that without the debuff this build would be way stronger and potentially reach 5m. Video of the run with additional explanation in description here: https://youtu.be/SPvdUDUO4eU
+    This build has been done in -30% TDM reduction disadvantage weather, meaning that without the debuff this build would be way stronger and potentially reach 5m. Video of the run with additional explanation in description here: https://youtu.be/SPvdUDUO4eU
 
 ***
 
@@ -1899,7 +1899,7 @@ Quick Search: PE, Juan, Horse, Goose, Dudu
 ![Is this too lewd lmao](https://elysian-realm.vercel.app/images/palatinus-equinox.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -1920,7 +1920,7 @@ Signet | Priority
 **Blessing of Exodus**: Last hit of Equinox Severance consumes Knight Guardian and impairs enemies | No
 
 !!! note
-     Choose one Sakura, core one or core two
+    Choose one Sakura, core one or core two
 ###<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
 
 Signet | Priority
@@ -1980,7 +1980,7 @@ Quick Search: PV, Fischl, Genshin, Oz
 ![what can I say... she's cute, lv90 and was my main... no lood bareback btw smhsmh bonk](https://cdn.discordapp.com/attachments/967717692465365133/982328610830565456/fischl_genshin_impact_drawn_by_raiya_atelier__sample-f6a310e955ffcff6fe112b15b37914c7.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Husk, then Aponia
 
@@ -2045,7 +2045,7 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 ![ok /srs, is this too lewd lmao. i rlly love this picture thoo](https://images-ext-1.discordapp.net/external/MqPd0RGKekUaBfA96jgtSJUPjPurqhqFWeEtBnx3izw/%3Fillust_id%3D97049680/https/embed.pixiv.net/decorate.php)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Kalpas
 
@@ -2103,7 +2103,7 @@ Signet | Priority
 ## --  Ult Build 
 
 !!! note
-     5.8 build
+    5.8 build
 
 ###<p align="center">Elysia - Signet of ■■</p>
 
@@ -2127,7 +2127,7 @@ Signet | Priority
 **Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode.| 1st
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 2nd
 !!! note
-    : Based on current testing, Flock is an independent modifier. Also, SP/s is preferred over more damage here; maintaining high SP for Eden buffs is important.
+   : Based on current testing, Flock is an independent modifier. Also, SP/s is preferred over more damage here; maintaining high SP for Eden buffs is important.
 
 ###<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
@@ -2141,7 +2141,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 !!! note
-    : Jade > Wine for earlier ulting, but pick Wine if you don't have SP/s from Kevin yet.
+   : Jade > Wine for earlier ulting, but pick Wine if you don't have SP/s from Kevin yet.
 
 ###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
@@ -2168,13 +2168,13 @@ Signet | Priority
 **Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 1st
 **Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed | 2nd
 !!! note
-    : Only pick Aponia if you can get both of these. Doing 2 combos (when the weapon skill visibly glows) activates Predation, which doesn't activate **Sixth, No Decadence** due to being considered QTE damage. However, normally swapping Moods will activate this debuff. This multiplier is also tested to be independent from Griseo's **Red & Hot** physical and elemental damage taken effect.
+   : Only pick Aponia if you can get both of these. Doing 2 combos (when the weapon skill visibly glows) activates Predation, which doesn't activate **Sixth, No Decadence** due to being considered QTE damage. However, normally swapping Moods will activate this debuff. This multiplier is also tested to be independent from Griseo's **Red & Hot** physical and elemental damage taken effect.
 
 
 ## --  Phyllis Build 
 
 !!! note
-     5.8 build
+    5.8 build
 
 ###<p align="center">Elysia - Signet of ■■</p>
 
@@ -2188,7 +2188,7 @@ Signet | Priority
 
 
 !!! note
-     F2 &3 must be Merchant Philosophy and Shiny & Valuable, after getting these 2 signets, build eden2 kevin1 kalpas2 first before continuing to build Reverie core (recc to get P&C and Neighbourhood Chatters in Shop)
+    F2 &3 must be Merchant Philosophy and Shiny & Valuable, after getting these 2 signets, build eden2 kevin1 kalpas2 first before continuing to build Reverie core (recc to get P&C and Neighbourhood Chatters in Shop)
 ###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
@@ -2242,7 +2242,7 @@ Quick search: RI, Kallen
 ## -- RI - *Aponia Build 6D*
 
 !!! note
-     The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
+    The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
 
 > Boss to be Chosen: Hephaestus and Aponia
 
@@ -2253,7 +2253,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | https://youtu.be/rFxInRhkEdo
 
 !!! note
-     Downscaling would fit into lower difficulties with this one. Also 6.0 weather is really unfavorable for her.
+    Downscaling would fit into lower difficulties with this one. Also 6.0 weather is really unfavorable for her.
 
 Buff | Load
 :----: | :----: 
@@ -2261,7 +2261,7 @@ Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets t
 Max SP increases by 30. | 5
 
 !!! note
-     Effective for 6.0
+    Effective for 6.0
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2287,12 +2287,12 @@ Signet | Priority
 **Blessing of Fertility**: Ultimate replenishes 40 light bullets for every gun turret and boosts their Tech Level by 1 (caps at 3). Each turret restores Tech Level × 30 KE per second. | No
 
 !!! note
-     If you don't get Blossom... well, Kevin's SP Regen becomes an absolute must to keep up with abusing him.
+    If you don't get Blossom... well, Kevin's SP Regen becomes an absolute must to keep up with abusing him.
 
 ###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-     Ideal course of build up: Double Ego start > Apo2 Core by F4 > Apo2 Breach by F5 > Hua or Kevin by F6 > Complete Hua or Kevin 2nd Core by F7.
+    Ideal course of build up: Double Ego start > Apo2 Core by F4 > Apo2 Breach by F5 > Hua or Kevin by F6 > Complete Hua or Kevin 2nd Core by F7.
 
 
 Signet | Priority
@@ -2320,7 +2320,7 @@ Signet | Priority
 **Worldly Troubles**: With Soldier's Remembrance stacks, Total DMG increases by 50% of the Total DMG Reduction percentage from all Signets. | Filler
 
 !!! note
-     If you don't want to suffer through this valk's insufferable non-existent I-frames, absolutely take Hua. She becomes almost unplayable without her, you need to be good at dodging without her shield. If you don't get her... well, you better be a masochist!
+    If you don't want to suffer through this valk's insufferable non-existent I-frames, absolutely take Hua. She becomes almost unplayable without her, you need to be good at dodging without her shield. If you don't get her... well, you better be a masochist!
 
 ###<p align="center">Kevin - Signet of Deliverance (3rd Core)</p>
 
@@ -2335,7 +2335,7 @@ Signet | Priority
 **Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50%. | 1st
 
 !!! note
-     If you want to try and fit Crusade of the Deliverer's buff window into every combo, then using Ultimate first and then doing Prosperity's ATK to use Combo at 3 maxed bars would be the ideal to fit the laser into the remaining 2s window of buff. Also, Rochet of Pilgrim's priority changes based on whether or not you get Blossom.
+    If you want to try and fit Crusade of the Deliverer's buff window into every combo, then using Ultimate first and then doing Prosperity's ATK to use Combo at 3 maxed bars would be the ideal to fit the laser into the remaining 2s window of buff. Also, Rochet of Pilgrim's priority changes based on whether or not you get Blossom.
 
 ###<p align="center">Mobius - Signet of Infinity (4th Core)</p>
 
@@ -2360,7 +2360,7 @@ Signet | Priority
 **Nexus Signet 2: Faded Stars** |
 
 !!! note
-     Getting the core is not necessary. You can just take all 3 signets from Felis Shop if you can.
+    Getting the core is not necessary. You can just take all 3 signets from Felis Shop if you can.
 
 ***
 
@@ -2370,7 +2370,7 @@ Quick search: SW, booba bronya
 ![boobnya~ u wish u were that chair don't u](https://media.discordapp.net/attachments/977869364067987466/977969902038155314/108ba30c70292d8e89a4104f52ffae43a9a0b95b.jpeg?width=474&height=671)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Kalpas (Bully from midair)
 
@@ -2440,7 +2440,7 @@ Quick search: SpA, Rita, Fire Rita
 ![I wish she could be my maid zzz... ahem no thirst i swear](https://cdn.discordapp.com/attachments/967717692465365133/982328632544489502/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_pillo__sample-98c9db220fdca44c0983ee59be210e8e.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -2493,7 +2493,7 @@ Signet | Priority
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
 !!! info
-     Choose either:
+    Choose either:
 
 ###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
@@ -2507,7 +2507,7 @@ Signet | Priority
 **This Is Not Where We Die**: Valkyries enters with a Good Luck shield. While the shield holds, every 100 Shiny Silvers owned grant 1% Physical and Elemental Breach. The shield can block incoming MG twice before it breaks, and every 500 Shiny Silvers owned grant one more block | Optional 
 
 !!! info
-     Or:
+    Or:
 
 ###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
@@ -2532,7 +2532,7 @@ Quick search: Seele
 ![SHE LOOKS SO PRETTY IK](https://elysian-realm.vercel.app/images/starchasm-nyx.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -2574,7 +2574,7 @@ Signet | Priority
 **Setsuna Blade: Ame-Shiko**: Activating Sakura Screen resets Ultimate CD and weapon active CD | **YES**
 
 !!! note
-     Choose either kevin1 or 2: 
+    Choose either kevin1 or 2: 
 ###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
@@ -2614,7 +2614,7 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 ![A painting of a painter. Ain't it nice?](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/06/04/19/51/40/98823766_p0_master1200.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 > Boss to be chosen: Aponia
 Time | Sigils | Support 1 | Support 2
@@ -2682,7 +2682,7 @@ Quick search: StFu, Mei
 ![girlfriend material, too bad taken by kiana](https://cdn.discordapp.com/attachments/967717692465365133/982328691893874728/yande.re_636489_sample_benghuai_xueyuan_honkai_impact_raiden_mei_stockings_sword_taw_993004677_thighhighs.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -2752,7 +2752,7 @@ Quick search: SN, Seele
 ![Vercel SN](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2020/06/15/13/18/35/82340123_p0_master1200.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 ## -- Stygian Nymph - *S2 Build 5D*
 
@@ -2765,7 +2765,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 S2 | Abstinence | Path of Acheron Pri & 3-set Allan Poe | 14m (2nd Half 5.9) | https://youtu.be/cslZh5G3YxI
 
 !!! note
-     Honestly? Just play someone else instead. SN is the weakest ER valk since release, without any changes at all. SS-rank is expected to be able to do Finality, and of course Corruption. This weather is also not really in her favor either.
+    Honestly? Just play someone else instead. SN is the weakest ER valk since release, without any changes at all. SS-rank is expected to be able to do Finality, and of course Corruption. This weather is also not really in her favor either.
 
 Buff | Load
 :----: | :----: 
@@ -2774,7 +2774,7 @@ Max SP increases by 30. | 5
 When Charged ATKs hit enemies, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 15
 
 !!! note
-     Effective for 6.0
+    Effective for 6.0
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2800,12 +2800,12 @@ Signet | Priority
 **Blessing of Might of Duality**: Casting Ultimate creates a resonance field (up to 3 can be present). Resonances of Sunnebrands or Veilmarks deal 160% ATK of bonus Physical DMG to enemies within the field. | No
 
 !!! note
-     As SN is a valk that loves her Ego signets, if you get Ego doors, take them UNLESS you get an door that will complete a necessary Core.
+    As SN is a valk that loves her Ego signets, if you get Ego doors, take them UNLESS you get an door that will complete a necessary Core.
 
 ###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! danger
-     Ideal start is double Ego door into 1 Sakura door. Read Sakura's section for explanation.
+    Ideal start is double Ego door into 1 Sakura door. Read Sakura's section for explanation.
 
 
 Signet | Priority
@@ -2830,7 +2830,7 @@ Signet | Priority
 **Nexus Signet 1: Setsuna Blade: Sakura ni Maku* |
 
 !!! note
-     Taking Sakura's Bountiful Blossom: Fuji for the 3rd door is the ideal start, due to its synergy with the 2 starting Ego signets and the synergy with Sakura's FC Skill. It's also the most effective.
+    Taking Sakura's Bountiful Blossom: Fuji for the 3rd door is the ideal start, due to its synergy with the 2 starting Ego signets and the synergy with Sakura's FC Skill. It's also the most effective.
 
 ###<p align="center">Kevin - Signet of Deliverance (3rd Core)</p>
 
@@ -2845,7 +2845,7 @@ Signet | Priority
 **Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50%. | 2nd
 
 !!! note
-     Getting Kevin's Core before Hephaestus fight is the most ideal.
+    Getting Kevin's Core before Hephaestus fight is the most ideal.
 
 ###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
@@ -2857,10 +2857,10 @@ Signet | Priority
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 !!! note
-     You don't have to worry about low health gameplay without shields. SN's repeated abuse of Ultimate Evasion and her own Ultimate will do the job of acting as I-frames. 
+    You don't have to worry about low health gameplay without shields. SN's repeated abuse of Ultimate Evasion and her own Ultimate will do the job of acting as I-frames. 
 
 !!! danger
-     Due to the nature of SN being, in a streak, the most unfavored valkyrie patch after patch in the rotating ER weathers, do not expect her performance and power compared to other valkyries to change. Yet, if you still want to play this valkyrie, do enjoy her. And hopefully someday Hoyoverse will consider reworking her Ego signets. https://www.youtube.com/watch?v=cslZh5G3YxI
+    Due to the nature of SN being, in a streak, the most unfavored valkyrie patch after patch in the rotating ER weathers, do not expect her performance and power compared to other valkyries to change. Yet, if you still want to play this valkyrie, do enjoy her. And hopefully someday Hoyoverse will consider reworking her Ego signets. https://www.youtube.com/watch?v=cslZh5G3YxI
 ***
 
 # Sweet 'n' Spicy (4D/5D HoDom)
@@ -2869,7 +2869,7 @@ Quick search: SnS, Carole
 ![karoole casual sheesh she looks rlly cute](https://elysian-realm.vercel.app/images/sweet-n-spicy.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -2942,7 +2942,7 @@ Quick search: TP, Teri, Theresa
 ![wldnt mind her stepping on me, lemme be ur leg rest](https://cdn.discordapp.com/attachments/967717692465365133/982328710462050374/yande.re_696296_sample_armor_benghuai_xueyuan_heels_honkai_impact_horns_shijiuqaq_theresa_apocalypse_thighhighs.jpg)
 
 !!! note
-     5.8 build
+    5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -3014,7 +3014,7 @@ Quick search: VG, Dudu, Goose
 ## -- VG - *Abstinence Build 5D*
 
 !!! note
-     The effectiveness of this build for 6.0 might be a bit lower due to the absence of Quantum enemies, but otherwise this should still work fine. It has also been adjusted to fit with 6.0.
+    The effectiveness of this build for 6.0 might be a bit lower due to the absence of Quantum enemies, but otherwise this should still work fine. It has also been adjusted to fit with 6.0.
 
 > Boss to be Chosen: Husk or Hephaestus, Aponia
 
@@ -3025,7 +3025,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | https://youtu.be/ILcGqhJskcs
 
 !!! note
-     Downscaling would fit into lower difficulties with this one.
+    Downscaling would fit into lower difficulties with this one.
 
 Buff | Load
 :----: | :----: 
@@ -3034,7 +3034,7 @@ Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it 
 When Charged ATKs hit enemies, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 15
 
 !!! note
-     Effective for 6.0
+    Effective for 6.0
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3060,12 +3060,12 @@ Signet | Priority
 **Blessing of Triumph**: Triggering Ultimate Evasion Skill or detonating Magnifica Mark restores 15 SP. | Filler
 
 !!! note
-     Battle Song + Gloria are a must. Sol can be optionally picked later. Triumph is not necessary. VG is another valk that loves her Ego signets, however, prioritize completing the important cores over the Ego signets.
+    Battle Song + Gloria are a must. Sol can be optionally picked later. Triumph is not necessary. VG is another valk that loves her Ego signets, however, prioritize completing the important cores over the Ego signets.
 
 ###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-     Ideal course of build up: Double Ego start > Apo2 Core by F4 > Apo2 Breach by F5 > V-V by F6 > Complete V-V 2nd Core by F7.
+    Ideal course of build up: Double Ego start > Apo2 Core by F4 > Apo2 Breach by F5 > V-V by F6 > Complete V-V 2nd Core by F7.
 
 
 Signet | Priority
@@ -3105,7 +3105,7 @@ Signet | Priority
 **Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler 
 
 !!! note
-     Interlacing Cells and Origin of Slumber take priority of upgrades.
+    Interlacing Cells and Origin of Slumber take priority of upgrades.
 
 ###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
@@ -3118,7 +3118,7 @@ Signet | Priority
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 !!! note
-     Kalpas' signets are best taken from Felis shop. If you get 2 of Kalpas' signets from there, then proceed with getting his Core if possible.
+    Kalpas' signets are best taken from Felis shop. If you get 2 of Kalpas' signets from there, then proceed with getting his Core if possible.
 
 ***
 
