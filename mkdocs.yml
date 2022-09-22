@@ -1,7 +1,8 @@
 site_name: 'HI3 ER Signet Guide'
 site_description: 'Signet guide for Honkai Impact 3 Elysian Realm'
 theme:
-    name: 'windmill-dark'
+  palette:
+    scheme: slate
 markdown_extensions:
   - admonition
   - pymdownx.details
