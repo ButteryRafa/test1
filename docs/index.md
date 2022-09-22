@@ -104,6 +104,7 @@ Please note that this is only true for there reward scores, and not the actual p
 
 >   Boss to be chosen: Husk, Kalpas
 
+
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
 Early | Forbidden Seed/Burden | AE | LE 
@@ -173,6 +174,7 @@ Signet | Priority
     5.8 build
 
 >   Boss to be chosen: Aponia
+
 
 Time | Sigils | Support 1 | Support 2
 :----: | ---- | :----: | :----:
@@ -244,6 +246,7 @@ Quick search: DA, dudu
 
 >   Boss to be chosen: Husk, Elysia
 
+
 Time | Sigils | Support 1 | Support 2
 :----: | ---- | :----: | :----:
 Early | Burden | AE | LE 
@@ -313,6 +316,7 @@ Search Tags: DPe, DiP, Nun, Aponia
     5.8 build
 
 >   Boss to be chosen: Husk, Elysia
+
 
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
@@ -442,6 +446,7 @@ Quick Search: FR, Rita, Maid
 
 >   Boss to be chosen: Husk, Elysia
 
+
 Time | Sigil | Support 1 | Support 2
 :----: | ---- |  :----: | :----:
 Early | Burden | AE | LE 
@@ -505,6 +510,7 @@ Quick Search: FT, Roza, Lili, Lily, Vodka Girls
 
 >   Boss to be chosen: SA for Husk, BR for HoDom, Mobius (Type Counter)
 
+
 Time | Sigil | Support 1 | Support 2 
 :----: | ---- |  :----: | :----: 
 Early | It Will Be Written | SA | SS 
@@ -564,6 +570,7 @@ Quick search: Eden, GD
     5.8 build
 
 >   Boss to be chosen: Elysia
+
 
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
@@ -634,6 +641,7 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
     5.8 build
 
 >   Boss to be chosen: Mobius (Type Counter)
+
 
 Time | Sigil | Support 1 | Support 2
 :----: | ---- |  :----: | :----:
@@ -757,6 +765,7 @@ Quick Search: HoR, Bronya
 ## -- Evade
 
 >   Boss to be chosen: Aponia
+
 
 Time | Sigil | Support 1 | Support 2
 :----: | ---- | :----: | :----:
@@ -2053,6 +2062,7 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 
 >   Boss to be chosen: Kalpas
 
+
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
 Early | Golden Goblet/ Light as a Leaf | AE | LE 
@@ -2378,6 +2388,7 @@ Quick search: SW, booba bronya
 
 >   Boss to be chosen: Kalpas (Bully from midair)
 
+
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
 Early | Golden Goblet/ Light as a Leaf | AE | LE 
@@ -2447,6 +2458,7 @@ Quick search: SpA, Rita, Fire Rita
     5.8 build
 
 >   Boss to be chosen: Aponia
+
 
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
@@ -2621,6 +2633,7 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
     5.8 build
 
 > Boss to be chosen: Aponia
+
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
 Early | It Will Be Written | SA | SS 
