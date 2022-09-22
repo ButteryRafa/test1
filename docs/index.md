@@ -680,7 +680,7 @@ Signet | Priority
 **Dictum of Santam**: Bodhi: Eyes Open inflicts 3 random debuffs lasting 3s on hit. | 1st
 **Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | 2nd
 
-!!! success
+!!! note
     Optional (Choose one or none):
 
 ###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
@@ -1573,7 +1573,7 @@ Signet | Priority
 **Newborn [X]:** Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally | Filler
 
 
-!!! success
+!!! note
     Optional (choose one or none):
 
 ###<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
@@ -2492,7 +2492,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-!!! success
+!!! note
     Choose either:
 
 ###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
@@ -2506,7 +2506,7 @@ Signet | Priority
 **Nexus Signet 1: Empty Dreams, Self, Set, and Joy** |
 **This Is Not Where We Die**: Valkyries enters with a Good Luck shield. While the shield holds, every 100 Shiny Silvers owned grant 1% Physical and Elemental Breach. The shield can block incoming MG twice before it breaks, and every 500 Shiny Silvers owned grant one more block | Optional 
 
-!!! success
+!!! note
     Or:
 
 ###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
