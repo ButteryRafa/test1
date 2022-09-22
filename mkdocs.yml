@@ -29,6 +29,5 @@ markdown_extensions:
     - toc:
         permalink: "#"
         title: 'Valkyrie Builds'
-        baselevel: 2
-        toc_depth: '1-2'
+        toc_depth: '2-3'
         
