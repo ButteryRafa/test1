@@ -2126,7 +2126,8 @@ Signet | Priority
 **Nexus Signet 1: Blade of the Deliverer** |
 **Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode.| 1st
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 2nd
-!!!Note: Based on current testing, Flock is an independent modifier. Also, SP/s is preferred over more damage here; maintaining high SP for Eden buffs is important.
+!!! note
+    : Based on current testing, Flock is an independent modifier. Also, SP/s is preferred over more damage here; maintaining high SP for Eden buffs is important.
 
 ###<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
@@ -2139,7 +2140,8 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold**|
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
-!!!Note: Jade > Wine for earlier ulting, but pick Wine if you don't have SP/s from Kevin yet.
+!!! note
+    : Jade > Wine for earlier ulting, but pick Wine if you don't have SP/s from Kevin yet.
 
 ###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
@@ -2165,7 +2167,8 @@ Signet | Priority
 ------ | :----:
 **Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 1st
 **Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed | 2nd
-!!!Note: Only pick Aponia if you can get both of these. Doing 2 combos (when the weapon skill visibly glows) activates Predation, which doesn't activate **Sixth, No Decadence** due to being considered QTE damage. However, normally swapping Moods will activate this debuff. This multiplier is also tested to be independent from Griseo's **Red & Hot** physical and elemental damage taken effect.
+!!! note
+    : Only pick Aponia if you can get both of these. Doing 2 combos (when the weapon skill visibly glows) activates Predation, which doesn't activate **Sixth, No Decadence** due to being considered QTE damage. However, normally swapping Moods will activate this debuff. This multiplier is also tested to be independent from Griseo's **Red & Hot** physical and elemental damage taken effect.
 
 
 ## --  Phyllis Build 
