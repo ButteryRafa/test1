@@ -94,6 +94,33 @@ Test table:
     </div>
 </div>
 
+<table>
+    <tr>
+        <td>Time</td>
+        <td>Sigils</td>
+        <td>Support 1</td>
+        <td>Support 2</td>
+    </tr>
+    <tr>
+        <td>Early</td>
+        <td>Forbidden Seed/Burden</td>
+        <td>AE</td>
+        <td>LE</td>
+    </tr>
+    <tr>
+        <td>Mid</td>
+        <td>Golden Goblet/Light as a Leaf</td>
+        <td>AE</td>
+        <td>LE/HB</td>
+    </tr>
+    <tr>
+        <td>Late</td>
+        <td>Home Lost/</td>
+        <td>AE</td>
+        <td>HB</td>
+    </tr>
+</table>
+
 </div>
 
 End test table
