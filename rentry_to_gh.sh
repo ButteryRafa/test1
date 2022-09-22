@@ -44,4 +44,6 @@ sed -i 's/:-*:/:----:/g' $output_file
 # Make Signets into Signet and then add a newline before signet tables
 sed -i 's/Signets | Priority/Signet | Priority/gi' $output_file
 sed -i 's/Signet | Priority/\n&/gi' $output_file
+sed -i 's/time | sigil/\n&/gi' $output_file
+
 
