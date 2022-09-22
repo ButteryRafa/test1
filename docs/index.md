@@ -43,6 +43,8 @@ Please note that this is only true for there reward scores, and not the actual p
 
 **Table of Contents (In alphebetical order):**
 
+[TOC]
+
 - Valkyrie Builds:
 	1. [Argent Knight: Artemis](#argent-knight-artemis)
 	2. [Bright Knight: Excelsis](#bright-knight-excelsis)
