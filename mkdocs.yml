@@ -4,6 +4,8 @@ theme:
   name: 'material'
   features:
     - toc.integrate
+    - navigation.instant
+    - navigation.indexes
   palette: 
 
     # Palette toggle for light mode
@@ -28,3 +30,5 @@ markdown_extensions:
         permalink: "#"
         title: 'Valkyrie Builds'
         toc_depth: '1-2'
+    - nav:
+        
