@@ -26,4 +26,5 @@ markdown_extensions:
     - pymdownx.superfences
     - toc:
         permalink: "#"
+        title: 'Valkyrie Builds'
         toc_depth: '1-2'
