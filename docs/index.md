@@ -45,7 +45,7 @@ Please note that this is only true for there reward scores, and not the actual p
 
 [TOC]
 
-# Argent Knight: Artemis
+## Argent Knight: Artemis
 
 ![omg jojo stand user](https://cdn.discordapp.com/attachments/967717692465365133/982328480106708992/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_kei_soundcross__sample-237aafeedb2d70329926c59547ea5313.jpg)
 
