@@ -4,6 +4,8 @@ theme:
   name: 'material'
   features:
     - navigation.instant
+    - navigation.top
+    - toc.integrate
   palette: 
 
     # Palette toggle for light mode
