@@ -56,12 +56,13 @@ Please note that this is only true for there reward scores, and not the actual p
 
 >   Boss to be chosen: Husk, Kalpas
 
-
+<div align="center">
 Time | Sigils | Support 1 | Support 2
 :----: |-----| :----: | :----:
 Early | Forbidden Seed/Burden | AE | LE 
 Mid | Golden Goblet/Light as a Leaf | AE | LE/HB
 Late | Home Lost/ | AE | HB
+</div>
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
