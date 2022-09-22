@@ -27,12 +27,12 @@ Difficulties have changed and here are their values:
 Please note that this is only true for there reward scores, and not the actual previous difficulties pre v5.6
 
 **What do these mean?**
-Yes = At some point get this signet. It doesn't matter when, just that you obtain it, as its a signet needed to make the build work.
-1st/2nd/etc = Get this 1st/2nd/etc
-Start = Start with this signet
-Optional = You can take it, but not necessary (mostly if your stigmatas' are bad)
-Filler = Only consider going for this if the other portals suck.
-No = Don't get this.
+- Yes = At some point get this signet. It doesn't matter when, just that you obtain it, as its a signet needed to make the build work.
+- 1st/2nd/etc = Get this 1st/2nd/etc
+- Start = Start with this signet
+- Optional = You can take it, but not necessary (mostly if your stigmatas' are bad)
+- Filler = Only consider going for this if the other portals suck.
+- No = Don't get this.
 
 > How to signet build? Which F17 Boss to take? When do I visit shop?
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
@@ -3156,29 +3156,30 @@ Dictum is the king of enemy total damage taken as the trance debuff which is par
 ***
 
 # Creditors and what they did:
-Adori - Columbina Supremacy#6481: Tester, theorycrafter and current big updater of builds from 5.9 onwards+
-Butter#2252: provided data
-boba#8849: helped format stuff correctly and tested builds
-Rafe#5610: helped rekindled the GC again and is also a rentry editor
-biribiri#3681: original Rentry person did build testing and theory crafting, picture dealer
-Beefyeggroll#0001: helped test builds and was in beta
-localhousee#7786: morale support and is working on website
-VampyHime#9207: was a beta tester and translator for beta, actual build testing and also provide theoretical build
-Camelva#7085: helped with build testing and data gathering
-Starlight#9581: ER help section with story progression
-FrediSK#5056: picture dealer who found pics for most, also helped with kalpas boss
-Korath#5931: kalpas boss help
-Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester. They are also a [youtuber](https://www.youtube.com/c/CitrusCh)
-Nana#3086: Helped with builds
+- Adori - Columbina Supremacy#6481: Tester, theorycrafter and current big updater of builds from 5.9 onwards+
+- Butter#2252: provided data
+- boba#8849: helped format stuff correctly and tested builds
+- Rafe#5610: helped rekindled the GC again and is also a rentry editor
+- biribiri#3681: original Rentry person did build testing and theory crafting, picture dealer
+- Beefyeggroll#0001: helped test builds and was in beta
+- localhousee#7786: morale support and is working on website
+- VampyHime#9207: was a beta tester and translator for beta, actual build testing and also provide theoretical build
+- Camelva#7085: helped with build testing and data gathering
+- Starlight#9581: ER help section with story progression
+- FrediSK#5056: picture dealer who found pics for most, also helped with kalpas boss
+- Korath#5931: kalpas boss help
+- Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester. They are also a [youtuber](https://www.youtube.com/c/CitrusCh)
+- Nana#3086: Helped with builds
 
 **Unnamed people who helped:**
-KenTJY#3888: theory crafter and tester 
-Zithr0#9800: theory crafter and tester
-BananaCannon#3312: tester 
-Fujinee#3002: tester
-Topperoonie#0484: tester
-SinsOfSeven#3164 (TencentDimepiece): tester and fellow guide maker  [Signet list here](https://rentry.co/elysian_realm_list)
-ww#1234 (Imy): inspiration and gave the green light to make guide
+- KenTJY#3888: theory crafter and tester 
+- Zithr0#9800: theory crafter and tester
+- BananaCannon#3312: tester 
+- Fujinee#3002: tester
+- Topperoonie#0484: tester
+- SinsOfSeven#3164 (TencentDimepiece): tester and fellow guide maker  [Signet list here](https://rentry.co/elysian_realm_list)
+- ww#1234 (Imy): inspiration and gave the green light to make guide
+
 Others 
 
 Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
