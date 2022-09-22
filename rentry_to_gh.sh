@@ -1,7 +1,16 @@
+# Run with bash or zsh or similar, requires sed
+# ./rentry_to_gh.sh <name of rentry file with hi3er markdown> [<optional output filename, defaults to rentry_to_gh_out.txt>]
+
+if [ "$#" -gt 1 ]
 then
     output_file=$2
 else
     output_file="rentry_to_gh_out.txt"
+fi
+
+if [ "$#" -lt 1 ]
+then
+    echo "Need input file argument, run with ./rentry_to_gh.sh <input filename>"
 fi
 
 cp $1 $output_file
