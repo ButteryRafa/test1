@@ -319,7 +319,7 @@ Late | Resolve/Hometown | AE | BR
 !!! warning
      Aponia Disciplinary Perdition can use almost every single signet so her builds are very flexible
 
-#  Auto Atk Spam 
+##  Auto Atk Spam 
 ### ->Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -373,7 +373,7 @@ Signet | Priority
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | **YES**
 
 
-#  Ult and Golden spam 
+##  Ult and Golden spam 
 ### ->Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -567,7 +567,7 @@ Early | Gold Goblet/Hometown | AE | LE
 Mid | Light as a Bodhi Leaf/Because of You(5F) | AE | LE/BR
 Late | Resolve/Hometown | AE | BR
 
-#  Combo Spam 
+##  Combo Spam 
 ### ->Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -735,7 +735,7 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 !!! note
      Information pending to be submitted. Complete run of the build here: https://youtu.be/Fgkcml9kPLw
 
-# Ballista build
+## Ballista build
 
 !!! note
      Information pending to be submitted. Complete run of the build here: https://youtu.be/OdJ-aHcehW0
@@ -750,7 +750,7 @@ Quick Search: HoR, Bronya
 !!! note
      5.8 build
 
-# Evade
+## Evade
 
 >   Boss to be chosen: Aponia
 
@@ -813,7 +813,7 @@ Signet | Priority
 
 ***
 
-# Ult
+## Ult
 
 !!! note
      5.8 build
@@ -1109,7 +1109,7 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional
 
-# S0 HoS - *Kosma Build 7D*
+## S0 HoS - *Kosma Build 7D*
 
 !!! note
      Build due to update for 6.0 soon.
@@ -1226,7 +1226,7 @@ Quick search: HoT, Mei, hot mei, dragon
 
 <p align="center">![Vercel HoT](https://elysian-realm.vercel.app/images/herrscher-of-thunder.jpg)</p>
 
-#  4-5 
+##  4-5 
 
 !!! note
      5.8 build
@@ -1295,7 +1295,7 @@ Signet | Priority
 
 ***
 
-#  Burst 
+##  Burst 
 
 !!! note
      5.8 build
@@ -1366,7 +1366,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 
 <p align="center">![The void demands ramen noodles](https://cdn.discordapp.com/attachments/976155579565367296/1021183218365501500/anime-girls-honkai-impact-3rd-kiana-kaslana-herrscher-of-the-void-tometoku-thighs-hd-wallpaper-preview.jpg)</p>
 
-# Thanos Snap - *Mobius Build 7D*
+## Thanos Snap - *Mobius Build 7D*
 
 !!! note
      Updated for 6.0. Strength has been lowered a bit, but otherwise she can still clear.
@@ -1685,7 +1685,7 @@ Early | AE | LE
 Mid | AE | LE/MA/BR
 Late | AE | MA/BR
 
-#  5-Core Build 
+##  5-Core Build 
 ### ->Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -2055,7 +2055,7 @@ Early | Golden Goblet/ Light as a Leaf | AE | LE
 Mid | Memory/ Rainbow of Absence | AE | LE/HB
 Late | Home Lost/ Dreamful Gold/ Empty like Shala | AE | HB
 
-#  Weapon Spam Build 
+##  Weapon Spam Build 
 ### ->Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -2100,7 +2100,7 @@ Signet | Priority
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
 
-#  Ult Build 
+##  Ult Build 
 
 !!! note
      5.8 build
@@ -2168,7 +2168,7 @@ Signet | Priority
 !!!Note: Only pick Aponia if you can get both of these. Doing 2 combos (when the weapon skill visibly glows) activates Predation, which doesn't activate **Sixth, No Decadence** due to being considered QTE damage. However, normally swapping Moods will activate this debuff. This multiplier is also tested to be independent from Griseo's **Red & Hot** physical and elemental damage taken effect.
 
 
-#  Phyllis Build 
+##  Phyllis Build 
 
 !!! note
      5.8 build
@@ -2236,7 +2236,7 @@ Quick search: RI, Kallen
 
 <p align="center">![Don't even think abt taking otto's sweetheart smh](https://cdn.discordapp.com/attachments/967717692465365133/982328632133427210/kallen_kaslana_and_kallen_kaslana_honkai_and_1_more_drawn_by_aya_0707__sample-9c01136da71faf66783d7845d584a9b5.jpg)</p>
 
-# RI - *Aponia Build 6D*
+## RI - *Aponia Build 6D*
 
 !!! note
      The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
@@ -2751,7 +2751,7 @@ Quick search: SN, Seele
 !!! note
      5.8 build
 
-# Stygian Nymph - *S2 Build 5D*
+## Stygian Nymph - *S2 Build 5D*
 
 > Boss to be Chosen: Husk or Hephaestus, then Vill-V
 
@@ -3008,7 +3008,7 @@ Quick search: VG, Dudu, Goose
 
 <p align="center">![Vercel VG](https://elysian-realm.vercel.app/images/valkyrie-gloria.jpg)</p>
 
-# VG - *Abstinence Build 5D*
+## VG - *Abstinence Build 5D*
 
 !!! note
      The effectiveness of this build for 6.0 might be a bit lower due to the absence of Quantum enemies, but otherwise this should still work fine. It has also been adjusted to fit with 6.0.
