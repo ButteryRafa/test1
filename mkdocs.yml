@@ -26,3 +26,4 @@ markdown_extensions:
     - pymdownx.superfences
     - toc:
         permalink: "#"
+        toc_depth: '1-2'
