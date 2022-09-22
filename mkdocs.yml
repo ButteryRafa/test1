@@ -30,5 +30,4 @@ markdown_extensions:
         permalink: "#"
         title: 'Valkyrie Builds'
         toc_depth: '1-2'
-    - nav:
         
