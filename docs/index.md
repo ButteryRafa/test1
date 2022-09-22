@@ -17,6 +17,7 @@
 **Spina Astera and Elysia is under works, as well as the 2-core Raven build and Gunlace Palatinus Meme build**
 
 Difficulties have changed and here are their values:
+
 - 1D Void = 90D
 - 2D Shroud = 100D
 - 3D Inferno = 110D
@@ -24,6 +25,7 @@ Difficulties have changed and here are their values:
 - 5D Abstinence = 130D
 - 6D Corruption = 140D
 - 7D Finality = 150D
+
 Please note that this is only true for there reward scores, and not the actual previous difficulties pre v5.6
 
 **What do these mean?**
