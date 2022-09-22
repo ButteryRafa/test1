@@ -1,7 +1,5 @@
 site_name: 'HI3 ER Signet Guide'
 site_description: 'Signet guide for Honkai Impact 3 Elysian Realm'
-nav:
-  - 'index.md'
 theme:
   name: 'material'
   features:
@@ -26,3 +24,5 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+    - toc:
+        permalink: "#"
