@@ -27,6 +27,7 @@ Difficulties have changed and here are their values:
 Please note that this is only true for there reward scores, and not the actual previous difficulties pre v5.6
 
 **What do these mean?**
+
 - Yes = At some point get this signet. It doesn't matter when, just that you obtain it, as its a signet needed to make the build work.
 - 1st/2nd/etc = Get this 1st/2nd/etc
 - Start = Start with this signet
@@ -39,6 +40,7 @@ Please note that this is only true for there reward scores, and not the actual p
 
 
 **Table of Contents (In alphebetical order):**
+
 - Valkyrie Builds:
 	1. [Argent Knight: Artemis](#argent-knight-artemis)
 	2. [Bright Knight: Excelsis](#bright-knight-excelsis)
@@ -3172,6 +3174,7 @@ Dictum is the king of enemy total damage taken as the trance debuff which is par
 - Nana#3086: Helped with builds
 
 **Unnamed people who helped:**
+
 - KenTJY#3888: theory crafter and tester 
 - Zithr0#9800: theory crafter and tester
 - BananaCannon#3312: tester 
@@ -3185,6 +3188,7 @@ Others
 Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
 
 **Picture Credits:**
+
 1. [Argent Knight: Artemis](https://pixiv.net/en/artworks/91766001)
 2. [Bright Knight: Excelsis](https://pixiv.net/en/artworks/80946649)
 3. [Dea Anchora](https://www.pixiv.net/en/artworks/90947488)
